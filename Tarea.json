@@ -1,0 +1,23 @@
+{
+        "_id": "5f77ca49f8802e0cbbcdfcbc",
+        "name": "Nicolas Torres",
+        "price_compare": 9990,
+    "variants": [
+        {
+            "_id": "5f77ca4bf8802e0cbbcdfcc1",
+            "quantity": 50
+            },
+        {
+            "_id": "5f77ca4bf8802e0cbbcdfcc2",
+            "quantity": 50
+            },
+        {
+            "_id": "5f77ca4bf8802e0cbbcdfcc3",
+            "quantity": 50
+            },
+        {
+            "_id": "5f77ca4bf8802e0cbbcdfcc4",
+            "quantity": 50
+            }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "c634f6c3-c68b-4d35-acd9-5f1453a865c9",
+	"name": "Centry Environment",
+	"values": [
+		{
+			"key": "id",
+			"value": "de936bc2-15da-4bb7-a6b4-3185c862a7b9",
+			"enabled": true
+		},
+		{
+			"key": "App_ID",
+			"value": "65b6c90bc86df184047084904db99264bd6bf2b7a67aea4539caa3307231d445",
+			"enabled": true
+		},
+		{
+			"key": "Secret_Key",
+			"value": "e46faf944ccaddbee6e1fca2eb0f702cb9126972bae7085a57726e5b75c80385",
+			"enabled": true
+		},
+		{
+			"key": "Callback_URL",
+			"value": "urn:ietf:wg:oauth:2.0:oob",
+			"enabled": true
+		},
+		{
+			"key": "Authorization_Code",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Access_Token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Refresh_Token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "URL_Base",
+			"value": "https://centry.cl",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-01-06T00:19:09.877Z",
+	"_postman_exported_using": "Postman/7.36.1"
+}
